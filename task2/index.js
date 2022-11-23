@@ -35,5 +35,3 @@ const getArrayOf6Elements = () => {
   return result
 }
 
-getArrayOf6Elements(worldList)
-
